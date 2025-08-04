@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>دستیار هوش مصنوعی پاسخ به سوالات بانکی</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background-image: url('1692438518899.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Tahoma, sans-serif;
+            color: white;
+            text-shadow: 0 0 8px black;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>دستیار هوش مصنوعی پاسخ به سوالات قوانین بانکی</h1>
+</body>
+</html>
