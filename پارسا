@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Test Background</title>
+  <style>
+    body {
+      background-image: url("1692438518899.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 100vh;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+</body>
+</html>
